@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @riddhi010
-- 👀 I’m interested in AI/ML and UI/UX
+- 👀 I’m interested in AI/ML and Full stack development
 - 🌱 I’m currently pursuing b.tech in computer science engineering from PDEU, Gandhinagar.
 - 💞️ I’m looking to collaborate on different projects related to computer science
 - 📫 
