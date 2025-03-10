@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @riddhi010
-- 👀 I’m interested in AI/ML and Full stack development
-- 🌱 I’m currently pursuing b.tech in computer science engineering from PDEU, Gandhinagar.
-- 💞️ I’m looking to collaborate on different projects related to computer science
-- 📫 
+# Hi there, I'm Riddhi Shah! 👋
 
-<!---
-riddhi010/riddhi010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+I'm a Computer Science Engineering student passionate about software development and AI-ML. I love building innovative projects that solve real-world problems.
+
+## 🛠️ Tech Stack
+- **Languages:** Python, C, C++, Java(basic),
+- **Web:** HTML, CSS, TailwindCSS,  JavaScript, MERN Stack, PHP, MySQL
+- **ML & AI:** Scikit-learn, TensorFlow, YOLO, NLP
+- **Version Control:** Git, GitHub
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/riddhi-shah-7748bb25b
+- 📧 Email: r.s.00shah@gmail.com
+
+
