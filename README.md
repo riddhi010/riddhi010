@@ -11,6 +11,10 @@ Over the last few years, I've developed a strong foundation in full stack web de
 - **Cloud & DevOps**: Docker, AWS
 - **Developer Tools**: Git, GitHub, VS Code, Postman, JIRA
 
+📊 GitHub Stats
+![Riddhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=riddhi010&show_icons=true&theme=radical)
+
+
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/riddhi-shah-7748bb25b
 - 📧 Email: r.s.00shah@gmail.com
