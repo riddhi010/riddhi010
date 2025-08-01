@@ -13,7 +13,7 @@ Over the last few years, I've developed a strong foundation in full stack web de
 
 🛠️ Featured Projects:
 - 🎯 [SkillSwap](https://github.com/riddhi010/skillswap)
-- 📦 [E-Commerce Admin Panel](https://github.com/your-repo)
+- 📦 [MindBloom](https://github.com/riddhi010/MindBloom)
 
 
 ## 📫 Connect With Me
